@@ -14,6 +14,9 @@ Then i ported to TBC Classic.
 - Channel names or smaller
 - Channels tabs are smooth
 
+# Advice
+I advice you SafeQueue addon to avoid queue issues with this addon : https://www.curseforge.com/wow/addons/safequeue
+
 # how to install
 Download the file and extract it. rename the folder and delete -master
 
