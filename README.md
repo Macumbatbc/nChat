@@ -16,6 +16,7 @@ Then i ported to TBC Classic.
 
 # how to install
 Download the file and extract it. rename the folder and delete -master
+You need the Dependency !Beautycase for it to work : https://github.com/Macumbatbc/-Beautycase
 
 ![image](https://user-images.githubusercontent.com/85767653/124334635-ff9dac00-db97-11eb-95d8-bf61b4b2aaa1.png)
 
